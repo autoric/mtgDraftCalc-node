@@ -8,7 +8,7 @@
     "request_timeout":1000,
     "port":4000,
     "mongodb":{
-        "uri":"mongodb://localhost:27017/express-train"
+        "uri":"mongodb://heroku_app11718401:9cahqu8ncos3t48erqkef66omc@dbh61.mongolab.com:27617/heroku_app11718401"
     },
     "character_encoding":"utf-8"
 }
